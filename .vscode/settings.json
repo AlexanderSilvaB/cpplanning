@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cubix": "cube",
+        "cmath": "cpp",
+        "complex": "cpp"
+    }
+}

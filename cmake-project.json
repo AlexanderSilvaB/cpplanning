@@ -1,0 +1,1 @@
+{"name": "cpplanning", "language": "cpp", "tool": "cmake-tools v0.1", "descr": "A path planning algorithms playground", "version": "0.1", "deps": [], "exes": [["pf", "pf"]], "libs": ["cpplanning"]}
